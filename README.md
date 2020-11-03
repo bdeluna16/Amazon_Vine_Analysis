@@ -10,6 +10,7 @@ After transforming the data and loading them into SQL tables we used Pyspark to 
 ## Results
 
 Below are the results from the Amazon Web Services dataset comprised of reviews for various sports products.
+    
     * Paid Reviews - the total number of reviews from Vine members was 4,140
     * Unpaid Reviews - the total number of reviews from Non-Vine members was 1,442,261
     * 5 Star Reviews Paid - the total number of 5 star reviews Vine members was 1,853.00
