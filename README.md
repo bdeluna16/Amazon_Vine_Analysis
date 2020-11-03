@@ -8,3 +8,9 @@ In this project we were tasked with performing the ETL process on a dataset prov
 After transforming the data and loading them into SQL tables we used Pyspark to determine if there was any bias towards favorable views from Vine members in the dataset.
 
 ## Results
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
