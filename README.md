@@ -9,3 +9,8 @@ After transforming the data and loading them into SQL tables we used Pyspark to 
 
 ## Results
 
+
+
+| paid reviews  | unpaid reviews| 5 Star Revies - Paid | 5 Star Reviews - Unpaid|Percentage of 5 Star Reviews - Paid|Percentage of 5 Star Reviews - Paid| 
+| ------------- |:-------------:| --------------------:|-----------------------:|----------------------------------:| ---------------------------------:|
+|        4,140  |     1,442,261 |               1,853  |                829,020 |                  44.75845410628019|                  57.48058083800366|
